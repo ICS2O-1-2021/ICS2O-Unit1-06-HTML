@@ -3,4 +3,4 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/ICS2O-1-2021/ICS2O-Unit1-06-HTML)](https://repl.it/github/ICS2O-1-2021/ICS2O-Unit1-06-HTML)
 
-This site can be found at: [https://ICS2O-1-2021.github.io/ICS2O-Unit1-05-HTML](https://ICS2O-1-2021.github.io/ICS2O-Unit1-06-HTML)
+This site can be found at: [https://ICS2O-1-2021.github.io/ICS2O-Unit1-06-HTML](https://ICS2O-1-2021.github.io/ICS2O-Unit1-06-HTML)
